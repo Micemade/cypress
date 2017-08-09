@@ -1,0 +1,15 @@
+body { font-family:Raleway, Helvetica, Arial, sans-serif;font-weight:normal;font-size:15px;color:#333333;font-family:arial, Helvetica, Arial, sans-serif;font-style:normal; }#site-menu, .block-subtitle, .bottom-block-link a, .button, .onsale, .taxonomy-menu h4, .tk-brandon-grotesque, body, button, input[type="button"], input[type="reset"], input[type="submit"], select, ul.post-portfolio-tax-menu li a {font-family: Raleway, Helvetica, Arial, sans-serif; }h1, h2, h3, h4, h5, h6, #site-menu, input#s, .navbar .nav, .block-subtitle, footer, .price, onsale, .bottom-block-link a  { 
+		font-family:arial, Helvetica, Arial, sans-serif;font-weight:; color:; font-style:normal; } #site-menu,.billing_country_chzn, .block-subtitle, .bottom-block-link a, .button, .chzn-drop, .navbar .nav, .onsale , .price, .tk-europa, .bottom-block-link a, button,footer, h1, h2, h3, h4, h5, input#s, input[type="button"], input[type="text"], input[type="reset"], input[type="submit"], select, textarea  { 
+		font-family:arial, Helvetica, Arial, sans-serif; } 
+h1.block-title:after, h2.block-title:after, h3.block-title:after, h4.block-title:after, h5.block-title:after, h1.page-title:after, h1.archive-title:after, .single-product-block h2, article h2.post-title:after, .menu-border, .breadcrumbs-search-border, .footer-border, .article-border, .block-title-border  {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-color: #adadad;
+	color: #adadad;
+}
+
+.category-image .term   {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+}
+.menu-border:before, .article-border:before, .block-title-border:before  { margin-bottom: -1px; }
